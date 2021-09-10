@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Split'n'Mix"
+Date "2021-09-10"
+Rev "1"
+Comp "Andrey Salomatin"
 Comment1 ""
 Comment2 ""
 Comment3 ""
